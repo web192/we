@@ -1,0 +1,74 @@
+.jumbotron{
+          	background-color: #fffff;
+          	color: 	;
+          	padding: 100px 25px;
+          	font-family: ui-sans-serif;
+          	text-align: center;
+    	}
+    	.container-fluid{
+    		padding: 40px 50px;
+    		font-family: ui-sans-serif;
+    	}
+    	.bg-grey{
+    		background-color: #dcdcdc;
+    		font-family: ui-sans-serif;
+    	}
+    	.bg-lightblue{
+    		background-color: #ADD8E6;
+    		font-family: ui-sans-serif;
+    	}
+
+    	.icono{
+    		color: #ADD8E6
+    	}
+
+    	.menu{
+            background-color: #6495ED;
+            padding: 5px 0px 14px;
+            border: 0;
+            font-size: 12px;
+            line-height: 1.42px;
+            letter-spacing: 2px;
+            font-family: ui-sans-serif;
+    	}
+    	.menu .navbar-nav li a, .menu .navbar-brand{
+    		color: #ffffff;
+    	}
+    	.menu .navbar-nav li a:hover, .menu .navbar-nav li.active a{
+    		color: #f4511e;
+    		background-color: #ffffff;
+    	}
+
+    	.menu .navbar-default .menu .navbar-toggle{
+    		border-color: transparent;
+    		color: #ffffff;
+    	}
+
+    
+   .panel{
+   	border: 1px solid #88E9F9;
+   }
+
+   .panel:hover{
+   	box-shadow: 3px 7px 30px #93C8F3;
+   }
+
+   .equipo .panel-heading{
+   	color: #91def2;
+   	background-color: #91def2;
+   	border-bottom: 1px solid;
+   	border-top-left-radius: 5px;
+   	border-top-right-radius: 0px;
+   	border-bottom-left-radius: 0px;
+   	border-bottom-right-radius: 0px;
+   }
+
+   .panel-footer{
+   	background-color: #91def2;
+   }
+
+.panel-footer h4{
+	color: #092b56;
+	font-size: 15px;
+}
+
